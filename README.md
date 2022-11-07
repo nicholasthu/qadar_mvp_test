@@ -1,5 +1,12 @@
 Demo video: https://drive.google.com/file/d/1uiN8jsEcPd28i5u52u1qJb828ApSs5-C/view?usp=share_link
 
+Technology stacks: React, Typescript, SASS, CSS module, TailwindCSS, Axios, Redux, React-router, Formik
+1. State management: Redux
+2. Styling documents: SASS, CSS module, TailwindCSS
+3. HTTP request handling: Axios
+4. Navigating pages: React-router
+5. Handling form: Formik
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
